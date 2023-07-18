@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Uu52g1g54hMbTyq+NV+PgBMxzLLQIVlk73c9sKLNJUM=",
+  "Source": "peer_to_peer_money_transfer.API",
+  "BasePath": "_content/peer_to_peer_money_transfer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

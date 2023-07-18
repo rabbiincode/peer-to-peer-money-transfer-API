@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\peer_to_peer_money_transfer.DAL\peer_to_peer_money_transfer.DAL.csproj" />
+    <ProjectReference Include="..\peer_to_peer_money_transfer.Shared\peer_to_peer_money_transfer.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

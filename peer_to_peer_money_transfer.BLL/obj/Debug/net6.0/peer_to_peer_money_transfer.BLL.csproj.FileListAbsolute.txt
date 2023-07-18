@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.BLL\obj\Debug\net6.0\peer_to_peer_money_transfer.BLL.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.BLL\obj\Debug\net6.0\peer_to_peer_money_transfer.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.BLL\obj\Debug\net6.0\peer_to_peer_money_transfer.BLL.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.BLL\obj\Debug\net6.0\peer_to_peer_money_transfer.BLL.AssemblyInfo.cs
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.BLL\obj\Debug\net6.0\peer_to_peer_money_transfer.BLL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.BLL\bin\Debug\net6.0\peer_to_peer_money_transfer.BLL.deps.json
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.BLL\bin\Debug\net6.0\peer_to_peer_money_transfer.BLL.dll
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.BLL\bin\Debug\net6.0\peer_to_peer_money_transfer.BLL.pdb
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.BLL\bin\Debug\net6.0\peer_to_peer_money_transfer.DAL.dll
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.BLL\bin\Debug\net6.0\peer_to_peer_money_transfer.Shared.dll
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.BLL\bin\Debug\net6.0\peer_to_peer_money_transfer.DAL.pdb
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.BLL\bin\Debug\net6.0\peer_to_peer_money_transfer.Shared.pdb
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.BLL\obj\Debug\net6.0\peer_to_peer_money_transfer.BLL.csproj.CopyComplete
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.BLL\obj\Debug\net6.0\peer_to_peer_money_transfer.BLL.dll
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.BLL\obj\Debug\net6.0\refint\peer_to_peer_money_transfer.BLL.dll
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.BLL\obj\Debug\net6.0\peer_to_peer_money_transfer.BLL.pdb
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.BLL\obj\Debug\net6.0\ref\peer_to_peer_money_transfer.BLL.dll

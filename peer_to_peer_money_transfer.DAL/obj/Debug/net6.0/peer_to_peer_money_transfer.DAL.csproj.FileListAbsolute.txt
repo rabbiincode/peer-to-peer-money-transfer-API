@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.DAL\obj\Debug\net6.0\peer_to_peer_money_transfer.DAL.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.DAL\obj\Debug\net6.0\peer_to_peer_money_transfer.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.DAL\obj\Debug\net6.0\peer_to_peer_money_transfer.DAL.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.DAL\obj\Debug\net6.0\peer_to_peer_money_transfer.DAL.AssemblyInfo.cs
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.DAL\obj\Debug\net6.0\peer_to_peer_money_transfer.DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.DAL\bin\Debug\net6.0\peer_to_peer_money_transfer.DAL.deps.json
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.DAL\bin\Debug\net6.0\peer_to_peer_money_transfer.DAL.runtimeconfig.json
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.DAL\bin\Debug\net6.0\peer_to_peer_money_transfer.DAL.dll
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.DAL\bin\Debug\net6.0\peer_to_peer_money_transfer.DAL.pdb
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.DAL\obj\Debug\net6.0\peer_to_peer_money_transfer.DAL.dll
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.DAL\obj\Debug\net6.0\refint\peer_to_peer_money_transfer.DAL.dll
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.DAL\obj\Debug\net6.0\peer_to_peer_money_transfer.DAL.pdb
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.DAL\obj\Debug\net6.0\peer_to_peer_money_transfer.DAL.genruntimeconfig.cache
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.DAL\obj\Debug\net6.0\ref\peer_to_peer_money_transfer.DAL.dll

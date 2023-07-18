@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.Shared\obj\Debug\net6.0\peer_to_peer_money_transfer.Shared.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.Shared\obj\Debug\net6.0\peer_to_peer_money_transfer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.Shared\obj\Debug\net6.0\peer_to_peer_money_transfer.Shared.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.Shared\obj\Debug\net6.0\peer_to_peer_money_transfer.Shared.AssemblyInfo.cs
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.Shared\obj\Debug\net6.0\peer_to_peer_money_transfer.Shared.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.Shared\bin\Debug\net6.0\peer_to_peer_money_transfer.Shared.deps.json
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.Shared\bin\Debug\net6.0\peer_to_peer_money_transfer.Shared.dll
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.Shared\bin\Debug\net6.0\peer_to_peer_money_transfer.Shared.pdb
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.Shared\bin\Debug\net6.0\peer_to_peer_money_transfer.DAL.dll
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.Shared\bin\Debug\net6.0\peer_to_peer_money_transfer.DAL.pdb
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.Shared\obj\Debug\net6.0\peer_to_peer_money_transfer.Shared.csproj.CopyComplete
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.Shared\obj\Debug\net6.0\peer_to_peer_money_transfer.Shared.dll
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.Shared\obj\Debug\net6.0\refint\peer_to_peer_money_transfer.Shared.dll
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.Shared\obj\Debug\net6.0\peer_to_peer_money_transfer.Shared.pdb
+C:\Users\USER\source\repos\peer_to_peer_money_transfer\peer_to_peer_money_transfer.Shared\obj\Debug\net6.0\ref\peer_to_peer_money_transfer.Shared.dll

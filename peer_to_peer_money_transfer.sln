@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "peer_to_peer_money_transfer.API", "peer_to_peer_money_transfer.API\peer_to_peer_money_transfer.API.csproj", "{EA2166A6-66EA-47E6-B2C6-EAFDB98F48A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "peer_to_peer_money_transfer.BLL", "peer_to_peer_money_transfer.BLL\peer_to_peer_money_transfer.BLL.csproj", "{32D1B232-73F2-4821-8930-A1E0A16130BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "peer_to_peer_money_transfer.DAL", "peer_to_peer_money_transfer.DAL\peer_to_peer_money_transfer.DAL.csproj", "{A97156A0-249B-48F0-803A-3B8E21869666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "peer_to_peer_money_transfer.Shared", "peer_to_peer_money_transfer.Shared\peer_to_peer_money_transfer.Shared.csproj", "{82BF5621-F53F-49CB-A8B5-C42971D2ECE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA2166A6-66EA-47E6-B2C6-EAFDB98F48A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2166A6-66EA-47E6-B2C6-EAFDB98F48A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2166A6-66EA-47E6-B2C6-EAFDB98F48A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2166A6-66EA-47E6-B2C6-EAFDB98F48A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D1B232-73F2-4821-8930-A1E0A16130BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D1B232-73F2-4821-8930-A1E0A16130BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D1B232-73F2-4821-8930-A1E0A16130BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D1B232-73F2-4821-8930-A1E0A16130BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A97156A0-249B-48F0-803A-3B8E21869666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97156A0-249B-48F0-803A-3B8E21869666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97156A0-249B-48F0-803A-3B8E21869666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97156A0-249B-48F0-803A-3B8E21869666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BF5621-F53F-49CB-A8B5-C42971D2ECE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BF5621-F53F-49CB-A8B5-C42971D2ECE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BF5621-F53F-49CB-A8B5-C42971D2ECE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BF5621-F53F-49CB-A8B5-C42971D2ECE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D9440A7-68FA-466F-ABF8-BF8059963EDC}
+	EndGlobalSection
+EndGlobal
